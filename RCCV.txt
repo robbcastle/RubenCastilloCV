@@ -1,0 +1,34 @@
+<html lang ="EN">
+<title> CV RUB&Eacute;N CASTILLO SAINZ </title>
+	<head>
+		<link href="file:///C:/Users/Benciowski/Desktop/HTML/main.css" rel="stylesheet" type="text/css">
+	</head>
+
+	<body class="fondo" background="C:\Users\Benciowski\Desktop\G0264844.JPG">
+		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+			<div id="menu">
+				<ul class="nav">
+					<li> <a href="C:\Users\Benciowski\Desktop\HTML\CV%20RUBEN.html"> About Me </a></li><span class="glyphicon glyphicon-align-left"></span>
+					<li> <a href="C:\Users\Benciowski\Desktop\HTML\profesional.html" target="blank"> Profesional Experience </a> </li>
+					<li> <a href=""> Education </a>
+						<ul> 
+							<li> <a href=""> Master in Business and Information Technology </a></li>
+							<li> <a href=""> Management and Business Administration </a></li>
+							<li> <a href=""> Erasmus: University of Warsaw </a></li>
+						</ul>
+					</li>
+					<li><a href=""> Knowledge, Skills & Abilities </a></li>
+				</ul>
+			</div>	
+		<br>
+			<div id="contacto">
+				<hr/>
+					<br>
+					<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+						<i class="fas fa-phone"> +34 656 719 496 </i> 
+						<i class="far fa-envelope"> rubencastillosainz@gmail.com </i>
+					
+			</div>
+	</body>
+
+</html>
