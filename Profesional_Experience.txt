@@ -1,0 +1,58 @@
+<html lang="EN">
+<title> CV RUBEN CASTILLO </title>
+
+<head>
+	<link href="file:///C:/Users/Benciowski/Desktop/HTML/profesional.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+	<div id="menu">
+		<ul class="nav">
+			<li> <a href="C:\Users\Benciowski\Desktop\HTML\CV%20RUBEN.html"> About Me </a></li><span class="glyphicon glyphicon-align-left"></span>
+			<li> <a href="C:\Users\Benciowski\Desktop\HTML\profesional.html"> Profesional Experience </a> </li>
+			<li> <a href=""> Education </a>
+				<ul> 
+					<li> <a href=""> Master in Business and Information Technology </a></li>
+					<li> <a href=""> Management and Business Administration </a></li>
+					<li> <a href=""> Erasmus: University of Warsaw </a></li>
+				</ul>
+				</li>
+			<li><a href=""> Knowledge, Skills & Abilities </a></li>
+		</ul>
+	</div>	
+	<br>
+		<h1 class="experiencia" > PROFESIONAL EXPERIENCE </h1><br>
+	<hr/>
+	<br>
+		<div id="quiter">
+			<span class="consultant"> Junior IT Consultant </span>  
+				<p>
+					<pre><span class="march"> | March 2017 - Present </span> </pre>
+						<br>
+							<p class="expquiter" >Providing after sales consulting services and Help Desk support to our customers in Spain and South America in Quiter Auto Web (Automobile DMS software). Main responsibilities and activities:</span></p>
+								<br>
+									<ul id="menu1">
+										<li>• Realization of diagnostic processes and problem solving both locally and remotely in Quiter Auto Web, client’s PCs, communication networks, server.</li>
+										<li>• Implementation and initial training of new clients in Quiter Auto Web at their offices in Spain and South America.</li>
+										<li>• Providing a personalised service that assists customers to find unique solutions for their daily work in Quiter Auto Web.</li>
+										<li>• Management skill in receiving large volume of daily calls and emails for consulting services and explanation of problem solving to our clients as well as sending diagnostics reports to my manager.</li>
+									</ul>
+								<br>
+							<hr/>
+						<br>	
+				</p>
+		<div id="UC">	
+			<pre><span class="community"> Community Manager | June 2017 - October 2017 </span>  <br></pre>
+				<br>
+					<ul id="menu2"><br>
+						<li> •	Set and implement social media and communication campaigns for the master’s academic year 2017/2018.</li>
+						<li> •	Developing the Front – End applications by using HTML, CSS, JavaScript and PHP.</li>
+						<li> •	Testing the new master´s website along as discussing with the University the parts to improve.</li>
+					</ul>
+				<br>	
+			<hr/>
+			<br>			
+		</div>
+</body>
+</html>
